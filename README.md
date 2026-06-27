@@ -72,7 +72,7 @@ src
 
 ### ❤️ Wishlist
 
-> Coming Soon
+https://foodhub-frontend.vercel.app
 
 ---
 
