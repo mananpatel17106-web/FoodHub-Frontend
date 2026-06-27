@@ -60,25 +60,25 @@ src
 
 ### 🏠 Home Page
 
-![Home](public/screenshots/Home.png)
+![Home](public/screenshots/home.png)
 
 ---
 
 ### 🛒 Cart
 
-![Cart](public/screenshots/Cart.png)
+![Cart](public/screenshots/cart.png)
 
 ---
 
 ### ❤️ Wishlist
 
-![Wishlist](public/screenshots/Wishlist.png)
+![Wishlist](public/screenshots/wishlist.png)
 
 ---
 
 ### ✅ Success Page
 
-![Success](public/screenshots/Success.png)
+![Success](public/screenshots/success.png)
 
 ## ⚙️ Installation
 
