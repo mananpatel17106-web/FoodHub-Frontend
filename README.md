@@ -4,7 +4,7 @@ A modern and responsive Food Ordering Frontend built with **React**, **Redux Too
 
 ## 🚀 Live Demo
 
-> Coming Soon...
+https://food-hub-frontend-six.vercel.app/
 
 ---
 
