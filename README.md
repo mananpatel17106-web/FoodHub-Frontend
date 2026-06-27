@@ -1,16 +1,130 @@
-# React + Vite
+# 🍔 FoodHub Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive Food Ordering Frontend built with **React**, **Redux Toolkit**, **Tailwind CSS**, and **React Router**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> Coming Soon...
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+- 🔍 Search Food
+- 🍕 Category Filter
+- ↕️ Sorting (Price, Rating, Name)
+- ❤️ Wishlist
+- 🛒 Shopping Cart
+- ➕ Increase / Decrease Quantity
+- 💰 Cart Total Calculation
+- ⭐ Product Modal
+- 📱 Fully Responsive Design
+- 💾 LocalStorage Support
+- 🚀 Protected Routes
+- ✅ Success Page
+- ❌ Error Page
+- ⬆️ Scroll To Top Button
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Redux Toolkit
+- React Router DOM
+- Tailwind CSS
+- React Icons
+- React Hot Toast
+- Vite
+
+---
+
+## 📂 Folder Structure
+
+```text
+src
+│
+├── components
+├── pages
+├── redux
+│   ├── slices
+│   └── Store.js
+├── data
+├── assets
+└── App.jsx
+```
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+> Coming Soon
+
+---
+
+### 🛒 Cart
+
+> Coming Soon
+
+---
+
+### ❤️ Wishlist
+
+> Coming Soon
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/mananpatel17106-web/FoodHub-Frontend.git
+```
+
+Go to project
+
+```bash
+cd FoodHub-Frontend
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run Project
+
+```bash
+npm run dev
+```
+
+---
+
+## 🎯 Future Improvements
+
+- Food Details Page
+- Backend Integration
+- Authentication
+- Online Payments
+- Order Tracking
+- Admin Dashboard
+
+---
+
+## 👨‍💻 Author
+
+**Manan Patel**
+
+GitHub
+
+https://github.com/mananpatel17106-web
+
+---
+
+## ⭐ If you like this project
+
+Give this repository a ⭐ on GitHub.
