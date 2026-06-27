@@ -60,21 +60,25 @@ src
 
 ### 🏠 Home Page
 
-> Coming Soon
+![Home](public/screenshots/Home.png)
 
 ---
 
 ### 🛒 Cart
 
-> Coming Soon
+![Cart](public/screenshots/Cart.png)
 
 ---
 
 ### ❤️ Wishlist
 
-https://foodhub-frontend.vercel.app
+![Wishlist](public/screenshots/Wishlist.png)
 
 ---
+
+### ✅ Success Page
+
+![Success](public/screenshots/Success.png)
 
 ## ⚙️ Installation
 
